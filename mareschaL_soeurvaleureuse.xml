@@ -641,8 +641,8 @@
             <l n="36" xml:id="l36">L’<ref target="#objet2">object*</ref> de ton amour &amp; de ta honte aussi,</l>
             <l n="37" xml:id="l37">Luy qui t’a fait quitter &amp; Parents &amp; la Perse ;</l>
             <l n="38" xml:id="l38">Songe au <ref target="#bien1">bien*</ref> qu’il te garde après tant de <ref target="#traverse1">traverse*</ref> :</l>
-            <note type="label" rend="center">Oracle.</note>
-            <lg rend="i">
+             <lg rend="i">
+               <head rend="center">Oracle.</head>             
               <l n="39" xml:id="l39">Dans la forest d’Elvye<note place="bottom">Nom fictif.</note><hi rend="i">, après estre guery</hi> </l>
               <l n="40" xml:id="l40">Ton cœur <ref target="#obliger2">obligera*</ref> Pere, Frere, &amp; Mary.<pb n="4" xml:id="p4"/> </l>
             </lg>

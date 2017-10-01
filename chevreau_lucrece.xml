@@ -2855,13 +2855,12 @@
             <l n="1136" xml:id="l1136">Le papier <ref target="#souffrir3">souffre*</ref> tout, mais il est de Lucresse.</l>
             <l n="1137" xml:id="l1137">Portes-y donc les yeux mal-heureux Colatin,</l>
             <l n="1138" xml:id="l1138">Pour y lire l’arrest de ton mauvais destin.</l>
-            <note type="label">LETTRE DE LUCRESSE.</note>
+           <lg> <head>LETTRE DE LUCRESSE.</head>
             <l n="1139" xml:id="l1139"><hi rend="i">Vous cherchez le fer</hi><note n="326" place="bottom">Renvoie à l’épée.</note><hi rend="i">et la flame</hi><note n="327" place="bottom">Renvoie à la flamme de l’amour (F.90).</note>,</l>
             <l n="1140" xml:id="l1140" rend="i">Pour mourir dans un lict d’<ref target="#honneur3">honneur*</ref>,</l>
             <l n="1141" xml:id="l1141" rend="i">Le vostre n’en a plus, et vostre pauvre fame </l>
             <l n="1142" xml:id="l1142" rend="i">Est le butin d’un suborneur. </l>
-            <l n="1143"/>
-            <l n="1143" xml:id="l1143">Venez punir une injustice</l>
+         </lg>   <l n="1143" xml:id="l1143">Venez punir une injustice</l>
             <l n="1144" xml:id="l1144" rend="i">Dont vostre <ref target="#honneur3">honneur*</ref> est combattu<note n="328" place="bottom">Comprendre : attaquer.</note>,</l>
             <l n="1145" xml:id="l1145" rend="i">Ma <ref target="#vertu3">vertu*</ref> desormais, doit passer pour un vice :    </l>
             <l n="1146" xml:id="l1146" rend="i">Mais je n’ay vice ny <ref target="#vertu3">vertu*</ref>. </l>
